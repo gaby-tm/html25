@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(215, 136, 183);
+    width:auto;
+    height: 50px;
+    word-spacing: 55px;
+    text-align: center;
+    padding: 25px;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(67, 43, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+a:active{
+    background-color: rgb(37, 153, 153);
+    border-radius: 20px;
+    padding: 15px;
+}
